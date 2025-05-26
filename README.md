@@ -108,6 +108,7 @@ API Development         ██████████████████�
 
 </div>
 
+<img src="https://github.com/TekyaygilFethi/TekyaygilFethi/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
 ---
 
 ## 🎯 **Proyectos Destacados**
