@@ -17,7 +17,7 @@
   <a href="mailto:felipe.dev@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/felipe-developer/">
+  <a href="https://www.linkedin.com/in/jose-felipe-guerrero-salda%C3%B1a-3ba1261ba/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
